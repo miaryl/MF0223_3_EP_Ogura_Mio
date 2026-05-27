@@ -1,14 +1,14 @@
-# EJERCICIO 4 — organización y repositorio/
-
+# EJERCICIO4 — organización y repositorio/
 
 ## Objetivo
+
 **Consolidar los conocimientos adquiridos organizando los proyectos en una
 estructura clara y publicándolos en un repositorio Git.**
 
 ### 📋 Tareas a realizar
 
 1. Crear una carpeta principal con el nombre:
-   
+
 *MF0223_3_EP_apellido_nombre*
 
 2. Dentro de esta carpeta, incluir las tres carpetas correspondientes a los ejercicios anteriores:
@@ -18,7 +18,6 @@ estructura clara y publicándolos en un repositorio Git.**
 *MF0223_3_EXPR_02_cognom_nom/*
 
 *MF0223_3_EXPR_03_cognom_nom/*
-
 
 3. Revisar que cada carpeta:
 - Contenga todo el código necesario
@@ -39,4 +38,3 @@ estructura clara y publicándolos en un repositorio Git.**
    ```
 
 
-   

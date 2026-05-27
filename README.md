@@ -13,11 +13,11 @@ estructura clara y publicándolos en un repositorio Git.**
 
 2. Dentro de esta carpeta, incluir las tres carpetas correspondientes a los ejercicios anteriores:
    
-*MF0223_3_EXPR_01_cognom_nom/*
+- [x] *MF0223_3_EXPR_01_cognom_nom/*
 
-*MF0223_3_EXPR_02_cognom_nom/*
+- [x] *MF0223_3_EXPR_02_cognom_nom/*
 
-*MF0223_3_EXPR_03_cognom_nom/*
+- [x] *MF0223_3_EXPR_03_cognom_nom/*
 
 3. Revisar que cada carpeta:
 - Contenga todo el código necesario

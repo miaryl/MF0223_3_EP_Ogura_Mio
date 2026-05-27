@@ -28,3 +28,9 @@ unable to get image 'ubuntu:22': error during connect: Get "http://%2F%2F.%2Fpip
 
 - imagen ubuntu:22 no existe, uso ubuntu:22.04
 
+<img width="1304" height="108" alt="Screenshot 2026-05-27 180405" src="https://github.com/user-attachments/assets/033e52b1-10ea-4136-870f-bd59221a6e45" />
+
+<img width="1575" height="66" alt="Screenshot 2026-05-27 180421" src="https://github.com/user-attachments/assets/fbfb994f-1936-4e55-939d-744c777ce0ba" />
+
+✔️ funciona correctamente!
+
